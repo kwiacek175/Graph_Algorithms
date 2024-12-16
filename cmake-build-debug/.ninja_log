@@ -1,0 +1,15 @@
+# ninja log v6
+24	1560	7559324025174634	CMakeFiles/GraphAlgorithms.dir/src/algorithms/BellmanFord.cpp.obj	33ecc0725ce36240
+54	1587	7559324025470393	CMakeFiles/GraphAlgorithms.dir/src/algorithms/Prim.cpp.obj	32be7380c5e8a7ae
+9	1591	7559324025021804	CMakeFiles/GraphAlgorithms.dir/src/app/Main.cpp.obj	21ff103c5ccc27d
+35	1598	7559324025276193	CMakeFiles/GraphAlgorithms.dir/src/algorithms/Dijkstra.cpp.obj	aca40d9d13474bd2
+65	1614	7559324025583906	CMakeFiles/GraphAlgorithms.dir/src/structures/AdjacencyList.cpp.obj	6e50b80a1a2898e8
+76	1616	7559324025689680	CMakeFiles/GraphAlgorithms.dir/src/structures/IncidenceMatrix.cpp.obj	1d447df16e4793e1
+136	1642	7559324026295369	CMakeFiles/GraphAlgorithms.dir/src/utilities/TransformGenerated.cpp.obj	b3661ba262348745
+102	1721	7559324025955326	CMakeFiles/GraphAlgorithms.dir/src/ui/Menu.cpp.obj	506b2488e4eceae6
+114	1774	7559324026075321	CMakeFiles/GraphAlgorithms.dir/src/utilities/ReadGraph.cpp.obj	afeeb86c67369af1
+45	1785	7559324025376240	CMakeFiles/GraphAlgorithms.dir/src/algorithms/Kruskal.cpp.obj	5b1550fdfec16103
+90	2236	7559324025823918	CMakeFiles/GraphAlgorithms.dir/src/utilities/GenerateGraph.cpp.obj	efce152e95f9af2
+125	3201	7559324026175338	CMakeFiles/GraphAlgorithms.dir/src/utilities/Test.cpp.obj	f340e2f27eac7041
+3202	3440	7559324056948072	GraphAlgorithms.exe	22e8ce1848cab24f
+54	82	7559324132033232	clean	20b1347d9ae3b987
