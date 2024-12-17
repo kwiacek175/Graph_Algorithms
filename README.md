@@ -28,42 +28,6 @@ Program umożliwia wybór jednej z trzech głównych opcji:
 - **Macierz incydencji (IncidenceMatrix):**
 - **Lista sąsiedztwa (AdjacencyList):**
 
-## Użycie programu
-
-Program uruchamia się z parametrami w linii komend w następującej kolejności:
-
-```plaintext
-<plik> <czas[s]> <populacja> <wsp.krzyżowania> <wsp.mutacji> <typ.krzyżowania>
-```
-
-Przykład:
-
-```plaintext
-program.exe graph.txt 60 100 0.8 0.01 PMX
-```
-
-## Instalacja i kompilacja
-
-Aby skompilować projekt, wykonaj następujące kroki:
-
-1. Sklonuj repozytorium:
-
-   ```bash
-   git clone <URL_repozytorium>
-   ```
-
-2. Przejdź do katalogu projektu:
-
-   ```bash
-   cd GraphAlgorithms
-   ```
-
-3. Skorzystaj z dowolnego kompilatora C++:
-
-   ```bash
-   g++ -o program src/*.cpp -std=c++17
-   ```
-
 ## Pliki projektu
 
 Projekt składa się z następujących plików:
@@ -90,12 +54,4 @@ Projekt składa się z następujących plików:
 ## Wymagania
 
 - Kompilator zgodny z C++17 lub nowszy.
-- System operacyjny obsługujący kompilację C++ (Linux, Windows, MacOS).
 
-## Autorzy
-
-- **Kacper Wiącek**
-
-## Licencja
-
-Projekt jest udostępniany na licencji MIT. Szczegóły znajdują się w pliku `LICENSE`.
